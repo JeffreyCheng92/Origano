@@ -1,5 +1,5 @@
 # Simple Piano/Organ Player
-[Live Website!](origano.herokuapp.com)
+[Live Website!](www.origano.herokuapp.com)
 
 ## Screenshot
 ![demo]
